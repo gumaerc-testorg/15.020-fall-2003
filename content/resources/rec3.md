@@ -2,8 +2,13 @@
 content_type: resource
 description: Recitation notes on Cournot-Nash equilibrium, double marginalization,
   and the imputation principle.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-020-competition-in-telecommunications-fall-2003/f500fc9a89faf456d574f34477344aea_rec3.pdf
+file: /media/courses/15-020-competition-in-telecommunications-fall-2003/f500fc9a89faf456d574f34477344aea_rec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: 'Recitation #3'
 uid: f500fc9a-89fa-f456-d574-f34477344aea
