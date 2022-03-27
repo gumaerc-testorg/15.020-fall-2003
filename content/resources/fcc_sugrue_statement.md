@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f70d3f89-f7e4-abc3-ce43-620bbd000d1b
 resourcetype: Document
 title: Access to Buildings and Facilities by Telecommunications Providers
 uid: 4cee92df-843b-8219-0e47-673459b88614

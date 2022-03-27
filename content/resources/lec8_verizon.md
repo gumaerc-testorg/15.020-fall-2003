@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 76caf397-2a8a-9578-811b-0a31e8bd49cc
 resourcetype: Document
 title: Future Wireless Technology
 uid: 8d03a125-d58e-17bd-7d84-b2c4322fadfa
