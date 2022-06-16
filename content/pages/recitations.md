@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides recitation notes from the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-US Telecom History, Phone Network Overview, and Networking Introduction ([PDF]({{< baseurl >}}/resources/rec1))
+US Telecom History, Phone Network Overview, and Networking Introduction ({{% resource_link fd3d4ce7-a9a4-f6e0-8d78-cb8a4d264771 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ US Telecom History, Phone Network Overview, and Networking Introduction ([PDF]({
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Packet-Switched Networks ([PDF]({{< baseurl >}}/resources/rec2))
+Introduction to Packet-Switched Networks ({{% resource_link 829d7690-7f49-a27c-7a15-f1ca167a9c85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction to Packet-Switched Networks ([PDF]({{< baseurl >}}/resources/rec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Cournot-Nash Equilibrium, Double Marginalization, and Imputation Principle ([PDF]({{< baseurl >}}/resources/rec3))
+Cournot-Nash Equilibrium, Double Marginalization, and Imputation Principle ({{% resource_link f500fc9a-89fa-f456-d574-f34477344aea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Cournot-Nash Equilibrium, Double Marginalization, and Imputation Principle ([PDF
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Wireless Concepts ([PDF]({{< baseurl >}}/resources/rec4))
+Wireless Concepts ({{% resource_link e6f9c70e-b14e-7658-7cc0-f2ef90fad0a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of telecommunication web sites provided
+  for those who want to learn more about the topics presented in this course, or research
+  related companies and agencies.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
