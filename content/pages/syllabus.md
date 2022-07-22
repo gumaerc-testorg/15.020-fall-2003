@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, grading, requirements, class participation, assignments, and other important
+  information.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7055557e-e95c-72f4-263c-116d017c7806
 ---
@@ -45,7 +50,7 @@ Students are expected to attend all classes. The TA will take attendance. Please
 
 Assignments
 
-For a description of the assignments, see the [assignments]({{< baseurl >}}/pages/assignments) page.
+For a description of the assignments, see the {{% resource_link e7cc0bcd-2023-3027-50c1-3a53d278a7a7 "assignments" %}} page.
 
 
 -------------------------------------------------------------------------------------------------------------------
