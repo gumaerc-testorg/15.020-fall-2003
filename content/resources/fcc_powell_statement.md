@@ -7,6 +7,7 @@ file: /courses/15-020-competition-in-telecommunications-fall-2003/ae1f789c918a1f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Broadband Migration III: New Directions in Wireless Policy'
 uid: ae1f789c-918a-1ff0-250c-a9dc1220c2b2
 ---
 Remarks of Michael K. Powell, Chairman of the Federal Communications Commission at the Silicon Flatirons Telecommunications Program, University of Colorado at Boulder.
-

@@ -5,6 +5,7 @@ file: /courses/15-020-competition-in-telecommunications-fall-2003/e6f9c70eb14e76
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Recitation #4'
 uid: e6f9c70e-b14e-7658-7cc0-f2ef90fad0a2
 ---
 Recitation notes on wireless concepts.
-

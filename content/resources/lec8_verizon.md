@@ -6,6 +6,7 @@ file: /courses/15-020-competition-in-telecommunications-fall-2003/8d03a125d58e17
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Future Wireless Technology
 uid: 8d03a125-d58e-17bd-7d84-b2c4322fadfa
 ---
 Presentation on future wireless technology, courtesy of guest speaker Dick Lynch, CTO, Verizon Wireless.
-

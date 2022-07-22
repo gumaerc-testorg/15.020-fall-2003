@@ -6,6 +6,7 @@ file: /courses/15-020-competition-in-telecommunications-fall-2003/fd3d4ce7a9a4f6
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Recitation #1'
 uid: fd3d4ce7-a9a4-f6e0-8d78-cb8a4d264771
 ---
 Recitation notes on United States telecom history, phone networks, and networking.
-
