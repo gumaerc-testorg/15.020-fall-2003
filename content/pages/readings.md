@@ -55,7 +55,7 @@ Morgan Stanley Dean Witter. *Equity Research: Global Communications Primer.* Mar
 
 **Supplementary readings for those interested in the topic:**
 
-*Telephone Technology* at {{% resource_link "1a0a34c0-8de2-4785-a30e-d1b7db644736" "ePanorama.net" %}}
+*Telephone Technology* at [ePanorama.net](http://www.epanorama.net/)
 
 Hausman. *Regulated Costs and Prices in Telecommunications.*
 
@@ -90,7 +90,7 @@ Dodd, Chap. 5
 
 **Supplementary readings for those interested in the topic:**
 
-Sugrue, Thomas J. {{% resource_link "06163ded-b9d1-42b5-a5a9-a213efe6e280" "*Access to Buildings and Facilities by Telecommunications Providers*" %}}. Federal Communications Commission. 1999. ({{% resource_link 4cee92df-843b-8219-0e47-673459b88614 "PDF" %}})
+Sugrue, Thomas J. [*Access to Buildings and Facilities by Telecommunications Providers*](https://www.govinfo.gov/content/pkg/CHRG-106hhrg57450/html/CHRG-106hhrg57450.htm). Federal Communications Commission. 1999. ({{% resource_link 4cee92df-843b-8219-0e47-673459b88614 "PDF" %}})
 
 Latour, Almar. *Local-Phone Companies Face Siege in an Industry in Turmoil*. *Wall Street Journal* (August 13, 2003).
 
@@ -104,7 +104,7 @@ Dodd, Chap. 6
 
 Morgan Stanley Dean Witter. *Equity Research: Global Communications Primer*. March 27, 2001, pp. 76 – 83.
 
-Check product offerings at: {{% resource_link "879e0de7-42f5-4fcd-8095-9ec1c629c05a" "Verizon" %}}, {{% resource_link "ab81de0e-e772-4a36-8389-d8883a7901d7" "AT&T" %}}, {{% resource_link "d7488f4f-3123-4c80-a53b-b8cddfb0d6de" "MCI" %}}
+Check product offerings at: [Verizon](http://www.verizon.com/), [AT&T](http://www.att.com/), [MCI](http://www.mci.com/)
 
 **Supplementary readings for those interested in the topic:**
 
@@ -133,11 +133,11 @@ Hausman. *From 2G to 3G: Wireless Competition for Internet-Related Services.*
 
 Pringle, David, and Evan Ramstad. *European Telecom Firms Face Price War from 3G Cell Phones.* *Wall Street Journal* (August 13, 2003).
 
-Levine, R. C. *Cellular & PCS* slideshow. 2001. Available at {{% resource_link "0f82d70b-5be6-45d5-96f4-e0a9f4d3f929" "Privateline.com" %}}
+Levine, R. C. *Cellular & PCS* slideshow. 2001. Available at [Privateline.com](http://www.privateline.com/)
 
-Farley, Tom. *Digital Wireless Basics*. {{% resource_link "0f82d70b-5be6-45d5-96f4-e0a9f4d3f929" "Privateline.com" %}}
+Farley, Tom. *Digital Wireless Basics*. [Privateline.com](http://www.privateline.com/)
 
-Farley, Tom with Mark van der Hoek. *Cellular Telephone Basics: AMPS and Beyond.* {{% resource_link "0f82d70b-5be6-45d5-96f4-e0a9f4d3f929" "Privateline.com" %}}
+Farley, Tom with Mark van der Hoek. *Cellular Telephone Basics: AMPS and Beyond.* [Privateline.com](http://www.privateline.com/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -194,7 +194,7 @@ Internet Commerce in an Wireless World
 Speaker: Hoss Mohsenzadeh, Aliaswire Inc.
 
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f7b57063-5b55-40e2-9970-2b549a96517f" "Aliaswire Inc." %}}
+[Aliaswire Inc.](http://www.aliaswire.com/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -204,7 +204,7 @@ Entrepreneurs in Telecommunications
 Speaker: Carl Stjernfeldt, Battery Ventures
 
 {{< tdclose >}}{{< tdopen >}}
-Review website of {{% resource_link "e9ad1560-62e4-4c85-af92-d66dc4a87e20" "Battery Ventures" %}} and some of their investments.
+Review website of [Battery Ventures](http://www.battery.com/) and some of their investments.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -221,19 +221,19 @@ Speaker: Carlos Lopez-Abadia, Qwest CIO
 Are Spectrum Auctions a Good Idea?
 {{< tdclose >}}{{< tdopen >}}
 
-Cramton, Peter. *Spectrum Auctions*. In *Handbook of Telecommunications Economics.* Edited by Martin Cave, Sumit Majumdar, and Ingo Vogelsang. 2002, pp. 605-639. Available at the {{% resource_link "cf102e8b-a002-4f6b-b890-dd5c55c89cfd" "author's web site" %}}.
+Cramton, Peter. *Spectrum Auctions*. In *Handbook of Telecommunications Economics.* Edited by Martin Cave, Sumit Majumdar, and Ingo Vogelsang. 2002, pp. 605-639. Available at the [author's web site](http://www.cramton.umd.edu/).
 
-Werbach, Kevin. *Open Spectrum: The New Wireless Paradigm*. New America Foundation Spectrum Policy Program, October 2002. Available at the {{% resource_link "f11998da-4ea6-4a25-bbf5-479fd7f95475" "New America Foundation" %}}.
+Werbach, Kevin. *Open Spectrum: The New Wireless Paradigm*. New America Foundation Spectrum Policy Program, October 2002. Available at the [New America Foundation](http://werbach.com/docs/new_wireless_paradigm.htm).
 
 Klempere, Paul. *The Wrong Culprit For Telecom Trouble*. *Financial Times,* November 26, 2002.
 
 **Supplementary readings for those interested in the topic:**
 
-Papers on Spectrum Actions by Paul Klempere, Nuffield College. Available at the {{% resource_link "dfbe5f49-d1c2-49cb-8e63-ee5df4f2603e" "author's web page" %}}.
+Papers on Spectrum Actions by Paul Klempere, Nuffield College. Available at the [author's web page](http://www.paulklemperer.org/).
 
-Powell, Michael K. {{% resource_link "307caa3d-994b-47d8-bd9f-1da85e11a14f" "*Broadband Migration III: New Directions in Wireless Policy*" %}}. Federal Communications Commission, 2002. ({{% resource_link ae1f789c-918a-1ff0-250c-a9dc1220c2b2 "PDF" %}})
+Powell, Michael K. [*Broadband Migration III: New Directions in Wireless Policy*](http://www.fcc.gov/Speeches/Powell/2002/spmkp212.html). Federal Communications Commission, 2002. ({{% resource_link ae1f789c-918a-1ff0-250c-a9dc1220c2b2 "PDF" %}})
 
-{{% resource_link "b42a2694-ca8d-493d-87df-1c505be2d49e" "FCC Wireless Telecommunications Bureau Actions Section" %}}.
+[FCC Wireless Telecommunications Bureau Actions Section](http://wireless.fcc.gov/auctions/default.htm?job=auctions_home).
 
 Batista, Elisa. *Spectrum Auction Faces Delay*. *Wired News*, June 18, 2002.
 
