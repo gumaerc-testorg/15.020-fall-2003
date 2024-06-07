@@ -2,6 +2,7 @@
 content_type: resource
 description: "Recitation notes on VoIP \u2013 Voice Over Internet Protocol."
 file: /courses/15-020-competition-in-telecommunications-fall-2003/0bbe389b6f9506c8a943b538d43f081b_rec5.pdf
+file_size: 22386
 file_type: application/pdf
 learning_resource_types:
 - Recitations
