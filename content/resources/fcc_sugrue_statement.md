@@ -5,6 +5,7 @@ description: Statement of Thomas J. Sugrue, Chief, Wireless Telecommunications B
   Trade, and Consumer Protection Committee on Commerce, United States House of Representatives,
   May 13, 1999.
 file: /courses/15-020-competition-in-telecommunications-fall-2003/4cee92df843b82190e47673459b88614_fcc_sugrue_statement.pdf
+file_size: 52606
 file_type: application/pdf
 learning_resource_types:
 - Readings
