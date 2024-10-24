@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on wireless concepts.
-file: /courses/15-020-competition-in-telecommunications-fall-2003/e6f9c70eb14e76587cc0f2ef90fad0a2_rec4.pdf
+file: /ol-ocw-studio-app/courses/15-020-competition-in-telecommunications-fall-2003/e6f9c70eb14e76587cc0f2ef90fad0a2_rec4.pdf
 file_size: 135949
 file_type: application/pdf
 learning_resource_types:
