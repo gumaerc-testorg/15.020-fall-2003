@@ -3,7 +3,7 @@ content_type: resource
 description: Remarks of Michael K. Powell, Chairman of the Federal Communications
   Commission at the Silicon Flatirons Telecommunications Program, University of Colorado
   at Boulder.
-file: /courses/15-020-competition-in-telecommunications-fall-2003/ae1f789c918a1ff0250ca9dc1220c2b2_fcc_powell_statement.pdf
+file: /ol-ocw-studio-app/courses/15-020-competition-in-telecommunications-fall-2003/ae1f789c918a1ff0250ca9dc1220c2b2_fcc_powell_statement.pdf
 file_size: 62732
 file_type: application/pdf
 learning_resource_types:
