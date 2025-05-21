@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on packet-switched networks.
-file: /ol-ocw-studio-app/courses/15-020-competition-in-telecommunications-fall-2003/829d76907f49a27c7a15f1ca167a9c85_rec2.pdf
+file: /courses/15-020-competition-in-telecommunications-fall-2003/829d76907f49a27c7a15f1ca167a9c85_rec2.pdf
 file_size: 50983
 file_type: application/pdf
 learning_resource_types:

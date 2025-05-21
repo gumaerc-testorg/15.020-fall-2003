@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on United States telecom history, phone networks, and
   networking.
-file: /ol-ocw-studio-app/courses/15-020-competition-in-telecommunications-fall-2003/fd3d4ce7a9a4f6e08d78cb8a4d264771_rec1.pdf
+file: /courses/15-020-competition-in-telecommunications-fall-2003/fd3d4ce7a9a4f6e08d78cb8a4d264771_rec1.pdf
 file_size: 43262
 file_type: application/pdf
 learning_resource_types:
