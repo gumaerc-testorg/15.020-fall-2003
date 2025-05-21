@@ -2,7 +2,7 @@
 content_type: resource
 description: Presentation on future wireless technology, courtesy of guest speaker
   Dick Lynch, CTO, Verizon Wireless.
-file: /ol-ocw-studio-app/courses/15-020-competition-in-telecommunications-fall-2003/8d03a125d58e17bd7d84b2c4322fadfa_lec8_verizon.pdf
+file: /courses/15-020-competition-in-telecommunications-fall-2003/8d03a125d58e17bd7d84b2c4322fadfa_lec8_verizon.pdf
 file_size: 529285
 file_type: application/pdf
 learning_resource_types:
